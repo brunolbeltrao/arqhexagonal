@@ -1,4 +1,4 @@
-package conta.sistema.doinio.modelo;
+package conta.sistema.dominio.modelo;
 
 public class Erro {
     // eros genéricos
